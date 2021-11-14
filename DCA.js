@@ -9,7 +9,7 @@ function inTransit(payload) {
   // declare in transit event object
   let inTRansitEvent = {
     event: "in-transit",
-    time: `${date.getDate()}`,
+    time: `${date.getDate()}/ November`,
     payload: payload,
   };
   console.log("EVENT", inTRansitEvent);
@@ -27,7 +27,7 @@ function delivered(payload) {
   // declare delivered event object
   let deliveredEvent = {
     event: "delivered",
-    time: `${date.getDate()}`,
+    time: `${date.getDate()}/ November`,
     payload: payload,
   };
   console.log("EVENT", deliveredEvent);

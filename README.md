@@ -1,5 +1,5 @@
 # CAPS
 
-![Terminal](Lab11.PNG)
+![Terminal](neww.PNG)
 
 ![Terminal](test.PNG)

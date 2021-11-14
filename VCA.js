@@ -9,7 +9,7 @@ function pickup(payload) {
   // declare pick up event object
   let pickupEvent = {
     event: "pickup",
-    time: `${date.getDate()}`,
+    time: `${date.getDate()}/ November`,
     payload: payload,
   };
   console.log("EVENT", pickupEvent);
